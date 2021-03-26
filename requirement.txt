@@ -1,0 +1,8 @@
+pytesseract
+requests
+pillow
+beautifulsoup4
+selenium
+pandas
+numpy
+ipdb
